@@ -1,0 +1,5 @@
+{
+  "name": "SecureGen Password",
+  "description": "A highly secure, client-side random password generator with customizable strength settings and visual strength indicators.",
+  "requestFramePermissions": []
+}
